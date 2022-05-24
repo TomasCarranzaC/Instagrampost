@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    margin-top: 50px;
+    }
+.post { 
+    background-color: white;
+    width: 450px;  
+    margin: auto;
+    padding-top: 8px; 
+    }
+.post-body  {
+   font-family:Helvetica;
+    }
+img {
+    width: 100%;
+    }
+.right { 
+        display: flex;
+    }
+.postheader {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px;
+        padding: 0;
+        align-items: flex-start;
+    }
+.h-left {
+        display: flex;
+        justify-content: space-between;
+    }
+.icons {
+        display: flex;
+        justify-content: space-between;
+        margin: 8px;
+        padding: 0;
+    }
+.post-info {
+        padding: 8px;
+        margin: 8px;
+    }
+.rigoberto,.HTML5{
+        margin: 0;
+        padding: 0;
+        border: none;
+        font-family:Helvetica;
+    }
+.title-location {
+        margin: 0;
+        padding-left: 8px;
+    }
+    
+
+    
